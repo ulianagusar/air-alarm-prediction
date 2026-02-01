@@ -35,3 +35,5 @@ Results (best observed)
 Region prediction: best model — RNN, accuracy ~17%. 
 
 Time prediction: best model — RNN, error reduced to ~50.12 minutes (best run: 30 epochs). 
+
+**Detailed** https://drive.google.com/drive/folders/1stmq617T4GpJuftDW7wFa-Kp9H0hXdTR?hl=ru
